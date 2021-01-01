@@ -1,3 +1,3 @@
 # models
 
-* Face Detector
+* [Face Detector](face-detector.md)
